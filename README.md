@@ -59,7 +59,9 @@ Handles the player's choice, generates the computer's choice, determines the win
 ## Example Gameplay
 
 Player's Move: Rock
+
 Computer's Move: Scissors
+
 Result: "You Win!"
 
 ## Contributing
