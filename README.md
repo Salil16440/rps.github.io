@@ -29,3 +29,48 @@ A simple **Rock-Paper-Scissors** game built using Python's `tkinter` library. Th
 
    ```bash
    python rock_paper_scissors.py
+
+## Gameplay Rules
+
+Rock beats Scissors.
+
+Paper beats Rock.
+
+Scissors beats Paper.
+
+If both players choose the same option, it's a tie.
+
+## Code Overview
+
+**1. determine_winner(player_choice, computer_choice):**
+
+Compares the player's and computer's choices and returns the result (Win, Lose, or Tie).
+
+**2. play(choice):**
+
+Handles the player's choice, generates the computer's choice, determines the winner, and updates the UI.
+
+## UI Elements:
+
+1. Buttons for Rock, Paper, and Scissors to capture the player's choice.
+
+2. A label to display the game's result.
+
+## Example Gameplay
+
+Player's Move: Rock
+Computer's Move: Scissors
+Result: "You Win!"
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+## Acknowledgments
+
+Thanks to the Python community for providing resources and support.
+Tkinter documentation for GUI development.
+
+## Contact
+
+For any inquiries, please reach out to **salil.16440@stu.upes.ac.in**.
